@@ -1,4 +1,3 @@
-package rupeshaduru;
 
 public class First {
 
@@ -8,3 +7,4 @@ public class First {
 	}
 
 }
+
